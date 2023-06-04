@@ -1,0 +1,13 @@
+  <group name="Land_Mil_Guardhouse2" pos="4637.949707 340.403198 10287.611328" rpy="-0.000000 0.000000 151.200073" a="-61.2001"/>
+	<group name="Land_Mil_Guardhouse2" pos="4610.018066 340.403015 10340.391602" rpy="0.000000 0.000000 -28.799997" a="118.8"/>
+	<group name="Land_Mil_Fortified_Nest_Big" pos="4638.689941 348.888000 10322.400391" rpy="0.000000 0.000000 61.200001" a="28.8"/>
+	<group name="Land_Mil_Tower_Small" pos="4603.879883 342.806000 10333.500000" rpy="0.000000 0.000000 -80.999977" a="171"/>
+	<group name="Land_Mil_Tower_Small" pos="4629.069824 342.851013 10286.200195" rpy="0.000000 0.000000 -169.199997" a="-100.8"/>
+	<group name="Land_Mil_Tower_Small" pos="4620.669922 342.835999 10302.000000" rpy="0.000000 0.000000 -118.800003" a="-151.2"/>
+	<group name="Land_Mil_Tower_Small" pos="4612.109863 342.815002 10318.000000" rpy="0.000000 0.000000 -117.000000" a="-153"/>
+	<group name="Land_wreck_truck01_aban1_green" pos="4628.469727 338.975647 10306.039063" rpy="-0.000000 -0.000000 27.000000" a="63"/>
+	
+	<group name="Land_Underground_Entrance" pos="4640.039551 339.217987 10322.874023" rpy="0.000000 0.000000 61.200001" a="28.8"/>
+	<group name="Land_Underground_Storage_Barracks" pos="4677.029785 339.160004 10323.321289" rpy="0.000000 0.000000 151.199951" a="-61.2"/>
+	<group name="Land_Underground_Storage_Ammo2" pos="4661.798828 339.160004 10354.540039" rpy="0.000000 0.000000 -28.799997" a="118.8"/>
+	<group name="Land_Underground_Floor_Crew" pos="4671.132324 349.320007 10339.474609" rpy="0.000000 0.000000 -28.799997" a="118.8"/>
